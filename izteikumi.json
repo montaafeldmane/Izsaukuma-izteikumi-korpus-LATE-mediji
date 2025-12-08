@@ -1,292 +1,1208 @@
 [
-    {
-        "question": "Nosaki izteikuma veidu -  Sveiciens Lieldienu priekšvakarā no Vides faktiem! Kur Sandijs Semjonovs? Viņš devies uz siltajām zemēm, lai ķertu saules zaķus. Kamēr saimnieks prom, peles pa galdu. Kas mums šodien raidījumā? ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Tiekamies nākamajā raidījumā Neatklātā Kurzeme!  ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-
-    {
-        "question": "Nosaki izteikuma veidu - Skatieties Sporta studijā! Vai Baiba Bendika būs vienīgā biatloniste olimpiskajās spēlēs Pekinā?  ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Esiet sveicināti Valmieras 5. vidusskolas tiešraidē Jautājumi un atbildes! Esmu Gustavs Māziņš, un kopā ar Valmieras 5. vidusskolas skolotājiem meklēsim atbildes uz jautājumiem, kas saistīti ar mācībām Valmieras 5. vidusskolas 10. līdz 12. klasē. ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Ienāk raidījuma vadītāji. Slēdzam gaismas. Aiziet, Sporta studija!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Kārtīgi, vīri, fano par FK Jelgava! ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Esiet sveicināti Lielajās patiesībās! Šodienas jautājums – vai tu esi laimīgs cilvēks?",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Esiet sveicināti Lielajās patiesībās! Lieldienas... Tieši pirms gada bija sācies karš Ukrainā, un mēs runājām – jā, drūmi laiki, bet Lieldienas nāks ar atdzimšanu. Ir pagājis gads.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Esiet sveicināti Lielajās patiesībās! Lieldienas... Tieši pirms gada bija sācies karš Ukrainā, un mēs runājām – jā, drūmi laiki, bet Lieldienas nāks ar atdzimšanu. Ir pagājis gads.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Tiekamies atkal Lielajās patiesībās! Un šodien ejam uz grēksūdzi, pie tam baznīcā. Vispār no tādas patiesas grēksūdzes mēs parasti vairāmies – cits ar smīnu, cits ar dusmām, cits ar visādām pārgudrībām.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },    
-    {
-        "question": "Nosaki izteikuma veidu - Sveiciens Lielajās patiesībās! Šodien iesim sinagogā. Vai cilvēks, kurš nav jūdu ticībai piederīgs, drīkst un var ieiet sinagogā, tā vienkārši paskatīties, lai neizskatītos pēc ziņkārīga vazaņķa? Sinagoga ir atvērta.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "C"
-    }, 
-    {
-        "question": "Nosaki izteikuma veidu - Sešdesmitajos, septiņdesmitajos - mums ir publicētas fotogrāfijas, kur Eiropas pedagogi ir izgājuši ar milzīgiem plakātiem un saka - aizliedzam kalkulatorus! ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Sveiciens Lielajās patiesībās ! Vai viegli būt vīrietim – tāds šodien jautājums.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Eu, Lielie Kupri! ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "C"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Notrūk' man tā ķesk'!  ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Pavasaris ir laiks, kad jādodas dabā un jāizmanto augstais ūdens līmenis upēs. Dvietes palieņu pļavas ir populāra laivotāju tikšanās vieta, bet upe numur viens ir un paliek Amata. Arī Vides fakti dodas izzinošā un izaicinošā braucienā ar laivu pa upi. Nu ko, uz priekšu. Aiziet!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Ir pēdējā iespēja interaktīvajos ekrānos pārbīdīt spēles dalībniekus atbilstoši viņu profesijām. Vai esat gatavi? 60 sekundes jūsu rīcībā. Aiziet !",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Spēli sāksim ar ļoti vienkāršu uzdevumu. Komandu rīcībā ir 30 sekundes, kad, vadoties pēc pirmā iespaida, jāsaliek skārienjūtīgajos ekrānos dalībnieki atbilstoši profesijām. Aiziet!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Jautāšu šeit skatītājiem studijā. Kā jūsuprāt? Vai kāposti tapuši ar prasmi un mīlestību? Vai pavisam konkrēti, balsojums par to, vai Mihails ir zemnieks. Aiziet!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Vairs nekādu uzdevumu. Pats pēdējais. Jums jāsaliek savos interaktīvajos ekrānos ātri un konsekventi jūsu viedoklis par konkrētajiem dalībniekiem. Aiziet! - Labi.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Aiziet!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Labi. Kurš nākamais? Daniel? Aiziet!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Dāmas un kungi, Renārs Purmalis, austeru someljē. Aiziet! Trīs, divi, viens.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Paldies žūrijai. Turpinām talantu un aizrautīgu cilvēku šovu Ko tu proti, Latvija? Vēl četrus dalībniekus mēs šovakar gaidām viesistabā. Aiziet!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Un sacensības var sākties. Aiziet!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Katram un katrai. Aiziet ! ",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Albertiņ ! Es tevi aizvedīšu uz istabu. Nu manā dzimtā Hruščova laikā divi pedagogi: viens nosala, otrs pārkarsa kolhoza pļavā, ja jo... Tas bija interesants laiks, jo lauku skolotājiem, lai izdzīvotu, bij sava govs katram. Un tad bij pie skolas skolotāju kūts.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Man teica: kuš, Aldi! Nerunā tik skaļi. Latvijas tāds tirgus nav tik liels.",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Dēliņ, kur tu esi? Andrej!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu - Uz savām mājām, Anna!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "B"
-    },
-    {
-        "question": "Nosaki izteikuma veidu -Apsveicu ! Otrais uzdevums ir veiksmīgi izpildīts. Kā jauniešiem veicās?",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "A"
-    },
-    {
-        "question": "Nosaki izteikuma veidu -Bet mēs atvadāmies šovakar. Un tiksimies ar jums Latvijas televīzijas ziņu raidījumos un, protams, “Pasaules panorāmā” pēc nedēļas. Arlabvakar!",
-        "options": {
-            "A": "izsaukuma",
-            "B": "pamudinājuma",
-            "C": "vēlējuma"
-        },
-        "answer": "C"
-    }
+{
+"question": "Nosaki izteikuma veidu -  Sveiciens Lieldienu priekšvakarā no Vides faktiem! Kur Sandijs Semjonovs? Viņš devies uz siltajām zemēm, lai ķertu saules zaķus. Kamēr saimnieks prom, peles pa galdu. Kas mums šodien raidījumā? ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Tiekamies nākamajā raidījumā Neatklātā Kurzeme!  ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Skatieties Sporta studijā! Vai Baiba Bendika būs vienīgā biatloniste olimpiskajās spēlēs Pekinā?  ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti Valmieras 5. vidusskolas tiešraidē Jautājumi un atbildes! Esmu Gustavs Māziņš, un kopā ar Valmieras 5. vidusskolas skolotājiem meklēsim atbildes uz jautājumiem, kas saistīti ar mācībām Valmieras 5. vidusskolas 10. līdz 12. klasē. ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Ienāk raidījuma vadītāji. Slēdzam gaismas. Aiziet, Sporta studija!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Kārtīgi, vīri, fano par FK Jelgava! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti Lielajās patiesībās! Šodienas jautājums – vai tu esi laimīgs cilvēks?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti Lielajās patiesībās! Lieldienas... Tieši pirms gada bija sācies karš Ukrainā, un mēs runājām – jā, drūmi laiki, bet Lieldienas nāks ar atdzimšanu. Ir pagājis gads.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Tiekamies atkal Lielajās patiesībās! Un šodien ejam uz grēksūdzi, pie tam baznīcā. Vispār no tādas patiesas grēksūdzes mēs parasti vairāmies – cits ar smīnu, cits ar dusmām, cits ar visādām pārgudrībām.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Sveiciens Lielajās patiesībās! Šodien iesim sinagogā. Vai cilvēks, kurš nav jūdu ticībai piederīgs, drīkst un var ieiet sinagogā, tā vienkārši paskatīties, lai neizskatītos pēc ziņkārīga vazaņķa? Sinagoga ir atvērta.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Sešdesmitajos, septiņdesmitajos - mums ir publicētas fotogrāfijas, kur Eiropas pedagogi ir izgājuši ar milzīgiem plakātiem un saka - aizliedzam kalkulatorus! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Sveiciens Lielajās patiesībās ! Vai viegli būt vīrietim – tāds šodien jautājums.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Eu, Lielie Kupri! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Notrūk' man tā ķesk'!  ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Pavasaris ir laiks, kad jādodas dabā un jāizmanto augstais ūdens līmenis upēs. Dvietes palieņu pļavas ir populāra laivotāju tikšanās vieta, bet upe numur viens ir un paliek Amata. Arī Vides fakti dodas izzinošā un izaicinošā braucienā ar laivu pa upi. Nu ko, uz priekšu. Aiziet!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Ir pēdējā iespēja interaktīvajos ekrānos pārbīdīt spēles dalībniekus atbilstoši viņu profesijām. Vai esat gatavi? 60 sekundes jūsu rīcībā. Aiziet !",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Spēli sāksim ar ļoti vienkāršu uzdevumu. Komandu rīcībā ir 30 sekundes, kad, vadoties pēc pirmā iespaida, jāsaliek skārienjūtīgajos ekrānos dalībnieki atbilstoši profesijām. Aiziet!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Jautāšu šeit skatītājiem studijā. Kā jūsuprāt? Vai kāposti tapuši ar prasmi un mīlestību? Vai pavisam konkrēti, balsojums par to, vai Mihails ir zemnieks. Aiziet !",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Vairs nekādu uzdevumu. Pats pēdējais. Jums jāsaliek savos interaktīvajos ekrānos ātri un konsekventi jūsu viedoklis par konkrētajiem dalībniekiem. Aiziet! - Labi.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Aiziet!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Labi. Kurš nākamais? Daniel? Aiziet !",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Dāmas un kungi, Renārs Purmalis, austeru someljē. Aiziet! Trīs, divi, viens.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paldies žūrijai. Turpinām talantu un aizrautīgu cilvēku šovu Ko tu proti, Latvija? Vēl četrus dalībniekus mēs šovakar gaidām viesistabā. Aiziet !",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Un sacensības var sākties. Aiziet !",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Katram un katrai. Aiziet ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Albertiņ ! Es tevi aizvedīšu uz istabu. Nu manā dzimtā Hruščova laikā divi pedagogi: viens nosala, otrs pārkarsa kolhoza pļavā, ja jo... Tas bija interesants laiks, jo lauku skolotājiem, lai izdzīvotu, bij sava govs katram. Un tad bij pie skolas skolotāju kūts.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Man teica: kuš, Aldi! Nerunā tik skaļi. Latvijas tāds tirgus nav tik liels.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Dēliņ, kur tu esi? Andrej!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Uz savām mājām, Anna!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu -Apsveicu ! Otrais uzdevums ir veiksmīgi izpildīts. Kā jauniešiem veicās?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu -Bet mēs atvadāmies šovakar. Un tiksimies ar jums Latvijas televīzijas ziņu raidījumos un, protams, “Pasaules panorāmā” pēc nedēļas. Arlabvakar!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Paldies Valmierai ! Mēs esam parādā viņiem visu! Par šo sezonu paldies viņiem! Un komanda super, līdz galam izkapājāmies.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Ai ! Labrītiņ šo rītiņ, šo skaisto, šo svētku rītiņ! Šodien es domāju, ka visa Latvija gatavo svētku mielastu. Es gaidu īpašu viesi no Francijas, un es viņai gribu rādīt, kas mums Latvijā ir tas tradicionāls, bet uz netradicionālu noti. Šodien es gatavošu svētku mielastu, bet ar franču piesitienu.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Es palīdzu Borisam Džonsonam izgulēties. Aleluja ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Jo es mīlu pilnīgi visus, visus līdz pašam pēdējam! Aleluja ! Es esmu pats pēdējais!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Gribas, lai valdība novērtē! Aleluja ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Altaj ! Argo!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Ar viņu mēs esam sazvanījušās videozvanā. Čau, Anastasij ! – Čau! – Kā tev patika, ka salīdzināju tavu balsi ar jūras šalkoņu?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Altaj! Argo ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Es pēdējā laikā biju tik ļoti aizņemta ar ar ar sevi un un to savu remontu vannas istabā. Bet tu taču saproti, ka tas prasa baigi daudz laika un un un un un naudas arī... Artiņ ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Askold ! Askold! Izskatās, ka šovakar mēs Askoldu neredzēsim peldam pa Rīgas kanālu, bet Ingmāram Līdakam sanācis noķert naksnīgus un diezgan labus kadrus.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Askold! Askold ! Izskatās, ka šovakar mēs Askoldu neredzēsim peldam pa Rīgas kanālu, bet Ingmāram Līdakam sanācis noķert naksnīgus un diezgan labus kadrus.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Kritiķi piekasīgi jautā: Vai tukša kaste zem zemes vispār ir arhitektūra? Atslābstiet ! Protams, ka ir.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Romāns Naudiņš – Saeimas deputāts, Tautsaimniecības, agrārās, vides un reģionālās politikas komisijas priekšsēdētājs. – Labvakar! – Kristīne Mozerte Atvainojos ! Eva Lossane – Nodarbinātības valsts aģentūras pakalpojumu departamenta direktore. – Labvakar! – Un Kristīne Mozerte – Rīgas Sociālā dienesta Atkarības profilakses sektora vadītāja un arī psiholoģe. – Labvakar! – Skatāmies operāciju.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Ir gan, tu tikai negribi stāstīt. Atzīsties ! Nav.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Šoreiz liekam punktu. Paldies visiem! Bet kā ir ar jauniešiem? Viņi it kā zina, bet mēs pārbaudīsim. Operācija “Angļu valodas eksāmens”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar ”Aizliegtajā paņēmienā” ! Nebrīnieties – šovakar šeit izskatās citādāk, un ne velti, jo sākam īpašu veselu piecu sēriju operāciju ar nolūku pārbaudīt, kā ir būt mazajam uzņēmējam Latvijā. Un, proti, mēs izveidojām paši savu biznesu. Skatāmies – operācija ”Frics”. 1. sērija. Biznesa sākums.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un šovakar – “Bistro Frics” trešā sērija. Šoreiz mēs meklēsim darbiniekus, kas varētu mūsu frī kartupeļus gan cept, gan arī pārdot. Tā kā esam jauns uzņēmums, daudz maksāt nevarēsim, bet nekādas īpašās iemaņas jau arī nav vajadzīgas. Kā mums veiksies? Skatāmies operācija “Bistro Frics” trešā sērija – darbinieki.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un, kā nopratāt, šovakar vērtēsim, vai kāds Latvijā nopietni cīnās pret to, lai smago automašīnu autovadītāji pie stūres neaizmigtu un neizraisītu traģiskas avārijas. Bojā gājušo skaita ziņā Latvija joprojām atrodas augstā vietā Eiropas Savienības valstu vidū. Un kāpēc? Iespējams, nākamais sižets sniegs atbildi. Skatāmies – operācija “Tahogrāfi”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Kā zināms, tādu ir ne mazums, turklāt Veselības ministrija ir sarūpējusi vēl vairākus. Bet – vai tie visi dod rezultātu? Un – vai gadījumā cīņa pret smēķēšanu nav cīņa uz papīra? Skatāmis - operācija “Smēķēt aizliegts”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Šovakar mēs runāsim par ēku siltināšanu un atjaunošanu, ar ko Rīgai, piemēram, pagalam neveicas, un Rīgas mikrorajoni kļūst arvien biedējošāki. Šī vakara operācija pavisam vienkārša. Dosimies uz konkrētu namu, runāsim ar cilvēkiem, ar visiem pēc kārtas un jautāsim, kāpēc nekas nenotiek. Operācija “Mana māja”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Bet tikmēr Zorģos visā savā krāšņumā bija uzplaucis pavasaris. Tagad viņām tas ir – katrai savs un neatkārtojams. Redz, kā prot starot Zorģu mazā “gaismas pils” ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un, kā nopratāt, šodien runāsim par bērniem un naudu. Un uzmanības centrā Igaunija – mūsu kaimiņvalsts, kas ir pirmrindniece demogrāfijas situācijas risināšanā, un dzirdēts, ka tur esot ļoti dāsni pabalsti. Skatīsimies, cik lieli, salīdzināsim ar Latviju. Skatāmies. Operācija “Igaunija un bērni”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Šovakar mūsu uzmanības centrā ļoti sensitīvs temats. Proti, cilvēkus nogalinošas sprāgstvielas. Kas tās ir? Kā tās pagatavot? Cik viegli Latvijā pieejamas to sastāvdaļas? Bet galvenais – vai to apriti kāds kontrolē un uzrauga, ka visi riski ir novērsti? Skatāmies. Operācija “Nāvējošās sprāgstvielas”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Viņš ir traks, viņš nesaprot vārdu „nē” ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un šovakar mēs atkal ielūkosimies vieglo taksometru biznesā. Pagājis vairāk nekā gads kopš mūsu pirmā raidījuma. Lūkosim, kā valsts pārvaldei ir sekmējies ar ēnu ekonomikas apkarošanu šajā nozarē. Skatāmies. Operācija “Nenotveramie takši”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un šovakar mēs piedāvājam ekskursiju uz Jūrmalu. Bistro gan šoreiz vaļā nevērsim, bet ielūkosimies, kā Jūrmalas domei veicas ar nekustamā īpašuma nodokļa iekasēšanu tieši par mājām. Un izrādās, ka daudzas mājas ir tādas, kuru it kā nav, bet kuras ir. Kas tā par mīklu? Skatāmies operāciju.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Šovakar mēs turpināsim iepriekšējā nedēļā aizsākto tematu – proti, par dārzeņu tirdzniecību Rīgas Centrāltirgū. Iepriekš rādījām, ka daudzi tirgotāji krāpjas ar produktu izcelsmi. Proti, no Polijas nākušu dārzeņus uzdod par Latvijā audzētiem. Tad šovakar runāsim par to, vai tirgotāji maksā nodokļus. Skatāmies operāciju “Dārzeņu shēmas”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un šovakar, kā jau nopratāt, runāsim par starppilsētu autobusu satiksmi Latvijā. Cik tā ir ātra, cik tā ir lēta un cik tā ir ērta? Lai to noteiktu, salīdzināsim to ar autobusiem Igaunijā un Somijā. Skatāmies operāciju “Dārgie gliemeži”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un šovakar mēs runāsim par grāmatām, to cenām un autortiesībām. Lūkosim izdot savu grāmatu un atmaskosim arī vairākus gadījumus, kā krāpjas Latvijas izdevēji. Skatāmies operācija “Izdodam grāmatu”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Labvakar, skatītāji! Labvakar “Aizliegtajā paņēmienā” ! Un šovakar mūsu uzmanības centrā Saeimas deputātu apņēmība apkarot alkoholismu un aizliegt divu litru alus pudeles. Operācija šovakar ļoti vienkārša. Jautāsim viedokli pašiem patērētājiem, ko Saeimas deputāti, iespējams, ikdienā nesastop. Operācija “Tautas balss”.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Lūdzu, video nominācijā “Lauksaimniecības kooperatīvs” ! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Jeb “Kafka”. “O, “Process”.” Jeb “Rūdolfs Blaumanis”. “O, “Skroderdienas Silmačos” ! ” Nu tur teiksim, no kinorežisoriem...",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "A"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti „Lielajās patiesībās” ! „Lielās patiesības” ir raidījuma „Saknes debesīs” turpinājums jaunajā sezonā. Ievadot šo raidījumu, mēģināšu minēt vienu lielo patiesību. Cilvēks savā dziļākajā būtībā ir vientuļš. vi",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti „Vides faktos” ! Es esmu Elīna Kolāte. Šodien mans sarunas partneris ir Jānis Skutelis. – Sveicināti!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti „Lielajās patiesībās” ! Šodien apsolītais stāsts par to, vai Bībele ir lielo patiesību grāmata.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti „Vides faktos” ! Mans vārds ir Elīna Kolāte.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti „Lielajās patiesībās” ! Mēs turpinām Epifānijas laika raidījumus, un epifānijas laiks – tas ir atspīduma laiks, jaunatklāsmju laiks. Kad ierastajā lietu kārtībā ieraugi kaut ko jaunu, pavisam citu lietu kārtību. Un varbūt uz to jūs mudinās arī mūsu raidījuma divas sarunas.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti „Lielajās patiesībās” ! Šodienas jautājumi... Vai es būzu ar mieru, ka man tiek pārstādīta cita cilvēka sirds?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti „Lielajās patiesībās” ! Ir rakstīts, ka Dievs cilvēku veidojis pēc sava ģīmja līdzības, bet vai šai ģīmja līdzībai atbilst cilvēks ar cūkas sirdi un dažādiem ķermenī ieaudzētiem tehnoloģiskiem rīkiem jeb kiborgi.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Sveiciens „Lielajās patiesībās” ! Sāksim ar kādu nelielu patiesību. „Nauda man dzīvē nav galvenais, tomēr vajag tikai tik daudz, lai būtu brīvs.” Tieši ar tādu lozungu sākas maldu ceļi uz vislielāko verdzību.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - “Iemītnieks” ir pamodies “dzīvoklī” ! Saproti, nu jo miesas kārība atšķiras – es to nedomāju nekādā sliktā nozīmē, vislabākajā. Miesas kārība ir miesas kārība. Tā kādu laiku tevi vajā.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti “Vides faktos” ! Mans vārds ir Elīna Kolāte. Un šodien es sarunājos ar Baibu Baltvilku.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Esiet sveicināti “Vides faktos” ! Mans vārds ir Elīna Kolāte.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Sveiciens atkal „Lielajās patiesībās” ! Kas ir dvēsele? Par dvēseli tik daudz runājam, dvēseli jūtam – tā priecājas, skumst, dvēseli apdziedam, pati dvēsele dzied; un reizēm jūtam visas tautas dvēseli. Bet kas tad ir dvēsele?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "C"
+},
+{
+"question": "Nosaki izteikuma veidu - Lai neapvainojās viena partija!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paspēlējam pozīciju, opozīciju!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Labi, Valaiņa kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paņemam visu!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Labi, izskrienam cauri šito riņķi!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Šuvajeva kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Vēl divi opozicionāri!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Labi, paejamies pa tēmām! (..) Izskriesim šai sarunā cauri (..) un tad paskatīsimies, kur ir kādi argumenti.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Konkrētāk, konkrētāk, Jurēvica kungs un visi pārējie! Bet konkrēti paņemam šito karti fonā!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Tavara kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Pabeidzam par šito!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Lūdzu, neizturēsimies pret to tik vienaldzīgi!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Kolēģi, būsim godīgi!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Indriksones kundze!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Valaiņa kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Neaizmirsīsim par šo faktu!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Neejot detaļās! Vienkārši koncentrāli. Kaut kādi komentāri par šo?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Atļausiet pabeigt!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Jurēvica kungs! Jurēvica kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Visus kritērijus nosauciet!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Neejam garajā!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Tavara kungs, ejam tālāk!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Pamainām atkal tēmu!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Nerunājam gari! Nepārstāstām to (..)!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Valaiņa kungs, jūs neatkārtojaties, lūdzu!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Tad tādus komunikatorus visus jāatlaiž no darba! (?)",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Jurēvica kungs, precizējam tagad!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Izstāstiet man un sabiedrībai pie viena, kas ir noticies?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Ja Jums ir vairāk, padalieties!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Nesat risinājumus, piedāvājumu nevis tikai kritizējiet!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Labi, pieliekam vēl vienu šķautni!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Mainām strauji tēmu!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Sprūda kungs! Sprūda kungs! Sprūda kungs! Sprūda kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Sprūda kungs, neiesim vispārinājumos!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paga, paga, paga, paga!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Es domāju, ka par kara nodokli, nu, tā lieta tak – neatmetiet!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Sakiet pretī! Ja ir ko teikt, sakiet pretī! Sakiet pretī! Acumirklīti – sakiet pretī! Sprūda kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Izbeigsim šo bērnudārzu vienreiz! Jūs spēlējaties – tāda sajūta, ka apkārt visi ir idioti un muļķi!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Apskatieties tās garās mašīnu rindas, kas nāk no visas Eiropas un stāv Latgalē!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paga, Jāni, paga! Klausies! Nu ļauj, es gaidīju! Es ļāvu visiem runāt.",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Tūkstošiem vilcieni katru gadu nāk, apmēram viena triljona apgrozījums starp Ķīnu un Eiropu – apskatieties! ",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Ļaujiet, ļaujiet, ļaujiet pateikt! Kungi, ļaujiet pateikt!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paga, paga, pag! Ļaujiet noformulēt!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Melbārdes kundze, arī Jūs ļaujiet man noformulēt!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paga, čššš!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Rosļikova kungs! Rosļikova kungs, nevispārinām!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Atvērsim iekavas, lai skatītāji saprot!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Šlesera kungs! Šlesera kungs! Šlesera kungs! Šlesera kungs! Šlesera kungs! Šlesera kungs, paliekam Eiropā!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Šlesera kungs! Šlesera kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Šlesera kungs! Šlesera kungs, jautājums nav par jūsu saietiem konservatīvajiem!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Pieņemam realitāti!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Paturam prātā! Es pareizi dzirdu? Progresīvie jau nav atteikušies no savas politiskās nostājas, ka būtu jāņem nost tās veto tiesības?",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Sprūda kungs, nesākam šitos te bulletpointus!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Šlesera kungs!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Nekliedzam šodien tik daudz!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Parunājam drusku par to – uz kurieni un kā mēs ejam uz nākamo daudzgadu budžetu (..)!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Nu, izstāstiet, nu, kā saka – reņģēdājam vienkāršajam!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Īsi, ļoti īsi norezumējam!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+},
+{
+"question": "Nosaki izteikuma veidu - Turpināsim dāmas un kungi! Turpināsim cienījamie skatītāji! Trupinājums sekos!",
+"options": {
+"A": "izsaukuma",
+"B": "pamudinājuma",
+"C": "vēlējuma"
+},
+"answer": "B"
+}
 ]
-
