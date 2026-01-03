@@ -3795,7 +3795,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": ["A", "C"}
+    "answer": ["A", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Sievietes !",
@@ -19746,6 +19746,7 @@
     "answer": "B"
   }
 ]
+
 
 
 
