@@ -6,7 +6,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Tiekamies nākamajā raidījumā \"Neatklātā Kurzeme\" !",
@@ -33,7 +33,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Ienāk raidījuma vadītāji. Slēdzam gaismas. Aiziet, \"Sporta studija\" !",
@@ -60,7 +60,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Esiet sveicināti \"Lielajās patiesībās\" ! Lieldienas... Tieši pirms gada bija sācies karš Ukrainā, un mēs runājām – jā, drūmi laiki, bet Lieldienas nāks ar atdzimšanu. Ir pagājis gads.",
@@ -69,7 +69,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Tiekamies atkal \"Lielajās patiesībās\" ! Un šodien ejam uz grēksūdzi, pie tam baznīcā. Vispār no tādas patiesas grēksūdzes mēs parasti vairāmies – cits ar smīnu, cits ar dusmām, cits ar visādām pārgudrībām.",
@@ -123,7 +123,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Notrūk'' man tā ķesk'' !",
@@ -141,7 +141,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["A", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Pavasaris ir laiks, kad jādodas dabā un jāizmanto augstais ūdens līmenis upēs. Dvietes palieņu pļavas ir populāra laivotāju tikšanās vieta, bet upe numur viens ir un paliek Amata. Arī \"Vides fakti\" dodas izzinošā un izaicinošā braucienā ar laivu pa upi. Nu ko, uz priekšu. Aiziet !",
@@ -285,7 +285,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Altaj ! Argo!",
@@ -303,7 +303,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Dēliņ, kur tu esi? Andrej !",
@@ -312,7 +312,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Uz savām mājām, Anna !",
@@ -393,7 +393,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["C", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Ir gan, tu tikai negribi stāstīt. Atzīsties ! Nav.",
@@ -411,7 +411,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Jāsaka godīgi, šādu dzīves modeli, kā izvēlējusies konkrētā ģimene, es diez vai varētu īstenot, taču apbrīnoju viņu uzņēmību. Tas šoreiz arī viss. Tiekamies pēc nedēļas. Atā !",
@@ -420,7 +420,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Ņemiet bērnus un visa ģimene brauciet uz šejieni, uz Dunduru pļavām. Te var apskatīt dzīvniekus. Ņemiet līdzi tēju, kafiju – te būs lieliska brīvdiena. Mēs savukārt tiekamies pēc nedēļas. Lai jums viss izdodas! Jauku nedēļu! Atā !",
@@ -429,7 +429,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Mežā riesta laiks sācies aļņiem, bet brieži vēl gaida savu kārtu. Mēs savukārt tiekamies pēc nedēļas. Lai jums viss izdodas! Atā !",
@@ -438,7 +438,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Dabas vērotāji ziņo, ka manīti sarkankrūši, arī zīdastes, kas atlidojuši no ziemeļiem. Taču kopumā dabā tagad tāds klusais laiks. Taču jebkurā gadījumā – ņemam bērnus un ar visu ģimeni dodamies dabā! Tiekamies pēc nedēļas. Atā !",
@@ -447,7 +447,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Salaspils oranžērijā tagad zied kamēlijas un strelīcijas. Brauciet ciemos! Vienmēr laipni gaidīti. Mēs savukārt gaidām jūsu komentārus un ierosinājumus jauniem „Vides faktu” sižetiem, arī tēmām. Tagad divas nedēļas – valsts svētki. Kārtīgi nosvinam, atpūšamies un tad tiekamies novembra beigās. Uz redzēšanos! Atā !",
@@ -456,7 +456,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Par latvāņiem runājot esam jums devuši vielu pārdomām. Ja šis augs jūs neliek mierā, asiniet darbarīkus un tiekamies nākamsestdien, Lielās talkas dienā. Ja jums ir kādi novērojumi par dabu vai kas ziņojams, atcerieties e-pasta adresi: www.videsfaktiem@gmail.com. Skatāmies dabā! Tiekamies pēc nedēļas. Atā !",
@@ -465,7 +465,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Ā! Šovakar tak ir Visu svēto vakars. Tad nu \"Vides faktu\" vārdā novēlam jums priecīgu ķirbīšvakaru. Skatieties dabā un pārbaidiet vai izjokojiet pašus klauvētājus. Uz tikšanos nākamajā sestdienā. Atā !",
@@ -474,7 +474,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Balts vismaz televīzijā nupat bija. Tagad atliek gaidīt Ziemassvētkus. Ilgi nebūs jāgaida. Jau rīt pirmā Advente. Skatāmies dabā. Atkal uzbruks nedaudz vēsākas dienas. Vai tas nesīs ziemu, laiks rādīs. Skatāmies dabā un tiekamies pēc nedēļas. Atā !",
@@ -483,7 +483,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Labi. Bet „Vides faktos” tiekamies jau pēc nedēļas. Atā ! – Visu labu!",
@@ -492,7 +492,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - “Pārtikas revidents” komandas vārdā sakām lielu paldies, ka bijāt kopā ar mums, un vēlam siltu, iespaidiem un piedzīvojumiem bagātu vasaru. Atā !",
@@ -501,7 +501,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Nu, ko? Turpiniet mācīties ko jaunu, esiet prātīgi, un mēs jau nākamnedēļ tiekamies šova \"Ko tu proti, Latvija?\" pusfinālā. Atā !",
@@ -510,7 +510,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Esiet centīgi, turpiniet attīstīt savus talantus! Un tiekamies šova \"Ko tu proti, Latvija?\" otrajā pusfinālā jau pēc nedēļas. Atā !",
@@ -519,7 +519,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - \"Sporta Studija\" būs klāt pēc nedēļas. Visu labu! Jau ar citiem notikumiem. Atā !",
@@ -528,7 +528,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Labdien, Ausmiņ !",
@@ -600,7 +600,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Kas bija šī sastāva daļa? Atbildes sūtiet uz zemāk norādītu adresi līdz 6. decembra pusnaktij. Balvas izloze notiks 13. decembra raidījumā. Balva kā parasti būs \"Stollar\" multicooker. Bet! Bet !",
@@ -609,7 +609,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Astoņi. Paldies žūrijai. Vēl puse no šīvakara dalībniekiem gaida savu kārtu viesistabā. Tāpēc mēs ejam uz priekšu. Beta !",
@@ -618,7 +618,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Briesmīgi ! Tāda nolaidība! Būs jātaisa remonts visā vannas istabā! Jā...",
@@ -672,7 +672,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["C", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Bērnudārzs !",
@@ -816,7 +816,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Tas ir viņš – baptistu draudzes mācītājs Egle !",
@@ -870,7 +870,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Mēs nekad nezinājām, vai kāds ir mājās. Mēs saucām, tad sapratām, vai ir vai nav. Gustav !",
@@ -879,7 +879,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "question": "Nosaki izteikuma veidu - Šis arī dod buču. Gvidi !",
@@ -933,7 +933,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "C"
+    "answer": ["C", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - He-he-he-he ! Kur es šito būtu dzirdējis?",
@@ -1050,7 +1050,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Ar visiem ķieģeļiem. Ieva !",
@@ -1068,7 +1068,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Un Ilze ! Astoņi ar mazu, mazu mīnusiņu. Lieliski. Tādas trīs bezgalības. Nu, redzēsim, vai tās aiznesīs Elvi uz pusfinālu. Bet turpinām ar nākamo dalībnieku.",
@@ -1086,7 +1086,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["C", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Indar ! Tev arī ausis.",
@@ -1113,7 +1113,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Es abām skuķēm pateicu, ka Arvīds precas ar Izoldi !",
@@ -1131,7 +1131,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Divās rindās stāties! Iļja ! Divās rindās stāties! Komandu nedzirdat? Vienība!",
@@ -1239,7 +1239,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Jā ! Un atnācu.",
@@ -1311,7 +1311,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Kraukšķis !",
@@ -1410,7 +1410,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Labdien ! Vai te ir tas kurpīšu muzejs?",
@@ -1428,7 +1428,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Ja. Labdien ! Vai laivu noma?",
@@ -1446,7 +1446,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Labdien ! Raidījums „Vides fakti”. Un šoreiz esam atbraukuši uz Enguri. Sveiks! Roberts Šiliņš, Engures ezera dabas parka fonda valdes priekšsēdētājs. Jā. Stāsti, kas jauns Engurē? Nu...",
@@ -1518,7 +1518,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["B", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Labrīt ! – Ārprāts. – Mārtiņš.",
@@ -2598,7 +2598,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Tā ir sekojusi mums līdzi visu mūžu. Esmu gājusi pēc tam mūzikas skolā, dziedājusi koros un ļoti mīlu dziedāt. Paldies Lienītei !",
@@ -2688,7 +2688,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Šodien, abas komandas, jūs pildīsiet trīs uzdevumus. Un spēles sākumā dodu 15 spēles monētas. Lūdzu ! Un lūdzu!",
@@ -3156,7 +3156,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Laiks nākamajam dalībniekam - bundziniekam Oliveram Cimoškam. Čau, Oliver !",
@@ -3165,7 +3165,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Tad šo dzīves atziņu izlasīs daudz vairāk cilvēku. Padomājiet !",
@@ -3219,7 +3219,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Un, ja mēs ticēsim, tad būs! Lai jums skaists vakars kopā ar mūsu laureātiem, ar mūsu māksliniekiem, ar mūsu mūsu Ziemassvētku orķestri Ulda Marhilēviča vadībā. Izbaudiet šo vakaru! Paldies !",
@@ -3228,7 +3228,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "C"
+    "answer": ["A", "B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Sarunāts. Paldies ! Iesim iekšā!",
@@ -3237,7 +3237,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["C", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Šobrīd jūs nezināt, vai tur kāds ir? Paldies !",
@@ -3255,7 +3255,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Paldies ! Lai jaukas Lieldienas!",
@@ -3273,7 +3273,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "C"}
   },
   {
     "question": "Nosaki izteikuma veidu - Un šī cīņa bija tāds maziņš mans ķeksītis – izdarīju nokautu. Man tas deva ļoti lielu pieredzi. Cik varbūt finansiāli ienesīga bija šī tev cīņa? Ja mēs minam, tad nu mēneša alga. Priecājos par mēneša algu. Paldies !",
@@ -3651,7 +3651,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Tad jau, lai mums visiem ir tikpat labi kā Andrim Pitragā ! Un vēl ļoti žēl, ka jums nav žāvētas lestes. Bet varbūt būs rīt. Paldies, ka skatījāties! Tiekamies jau nākamajā sestdienā. Visu labu!",
@@ -3660,7 +3660,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Āboliem īstā vieta ir vēderā, nevis grāvmalās. Tik daudz gardu un skaistu veidu, kā nobaudīt mūsu lepnumu - ābolu. Esam bagāti ar ābolu šķirņu daudzveidību. Zināšanas par āboliem, kur tos likt, vēl jāiegūst. Viens no veidiem - garda ābolu sulas glāze. Priekā !",
@@ -3687,7 +3687,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "B"}
   },
   {
     "question": "Nosaki izteikuma veidu - Visa gumija uztinas uz urbja, bet spirts paliek. Priekā !",
@@ -3795,7 +3795,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "C"}
   },
   {
     "question": "Nosaki izteikuma veidu - Sievietes !",
@@ -4938,7 +4938,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Dāmas un kungi, Renārs Zeltiņš !",
@@ -5037,7 +5037,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - To, kāda ir Rīgas veloinfrastruktūra, došos pārbaudīt uz savas ādas. Ritenis man ir, laiciņš ir jauks. Nu tad aiziet !",
@@ -5046,7 +5046,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "question": "Nosaki izteikuma veidu - Šoreiz raidījumā “Es – savai zemītei” kaut kas neparasts – velokartu sacensības Iecavas novada zemnieku samniecībā “Bērziņi”. Piedalās Pastaru ģimene un, protams, pārstāvji no “Savas zemītes” – aiziet !",
@@ -5073,7 +5073,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Nu nevar būt, ka tu visu esi aizmirsis !",
@@ -5361,7 +5361,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["C", "A"]
   },
   {
     "question": "Nosaki izteikuma veidu - Mēs kaut ko atradām ! – Es atradu mazu, mīļu vabolīti.",
@@ -5424,7 +5424,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": ["A", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Iedomājies, viņš man kleitu no Zviedrijas atveda !",
@@ -5478,7 +5478,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Dārziņos! Mēs nevirzāmies uz priekšu šodien! Dejojam dārziņus uz vienu pusīti, uz otru pusīti! Atcerieties, ka rokas iet caur augšu !",
@@ -5595,7 +5595,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "A"
+    "answer": "B"
   },
   {
     "question": "Nosaki izteikuma veidu - Zirgs iejūgts. Tu esi drošs, ka es uz tevi varu paļauties? Kā bankā ! Es bankām neuzticos. Man tu vari ticēt. Vecmāte būs klāt rekordtempā. Lai tikai mutere dod startu!",
@@ -5784,7 +5784,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "A"
   },
   {
     "question": "Nosaki izteikuma veidu - Paliec brītiņu ! Varbūt iedzersim tēju, kafiju?",
@@ -5802,7 +5802,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Nosaki izteikuma veidu - Kaut par mūsu pielūgsmes objektu kļūtu Tēvzemes dzīvība un brīvība !",
@@ -19746,4 +19746,5 @@
     "answer": "B"
   }
 ]
+
 
