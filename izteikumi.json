@@ -3687,7 +3687,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": ["A", "B"}
+    "answer": ["A", "B"]
   },
   {
     "question": "Nosaki izteikuma veidu - Visa gumija uztinas uz urbja, bet spirts paliek. Priekā !",
@@ -19746,6 +19746,7 @@
     "answer": "B"
   }
 ]
+
 
 
 
