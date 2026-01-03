@@ -6261,7 +6261,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Atliek tikai novēlēt: skatieties jums dabā ! Dieva dēļ, nepalaidiet garām rītdienas Māmiņu dienu. Arī dabā daudzas māmiņas: vienas sēž uz olām, otras meklē kukainīšus, lai bērniņiem būtu ko ēst, trešās neliekas ne zinis: gan jau paši tiks galā, jo daba ir ļoti spēcīgs spēks. Uz redzēšanos! Skatieties tajā spēkā! Tiekamies pēc nedēļas.",
@@ -6270,7 +6270,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": "B"
+    "answer": ["B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Diena pie jūras. Tā varētu būt rītdiena. Tāpēc ka jūras malā pilnīgi noteikti ķeras butes un drīkst paturēt lomā, ja arī trāpās kāds lasis vai taimiņš; un viņi tur šobrīd ir. Un tad mēs tiekamies, vai nu sociālajos tīklos, vai nākamnedēļ šinī pat vietā, šinī pat laikā. Skaties dabā !",
@@ -19746,6 +19746,7 @@
     "answer": "B"
   }
 ]
+
 
 
 
