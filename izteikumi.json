@@ -3273,7 +3273,7 @@
       "B": "pamudinājuma",
       "C": "vēlējuma"
     },
-    "answer": ["B", "C"}
+    "answer": ["B", "C"]
   },
   {
     "question": "Nosaki izteikuma veidu - Un šī cīņa bija tāds maziņš mans ķeksītis – izdarīju nokautu. Man tas deva ļoti lielu pieredzi. Cik varbūt finansiāli ienesīga bija šī tev cīņa? Ja mēs minam, tad nu mēneša alga. Priecājos par mēneša algu. Paldies !",
@@ -19746,6 +19746,7 @@
     "answer": "B"
   }
 ]
+
 
 
 
