@@ -36,7 +36,6 @@
   { "question": "Vai teikuma beigās nepieciešama izsaukuma zīme - Labvakar vēlreiz visiem.", "options": {"A": "Jā", "B": "Nē"}, "answer": "" },
   { "question": "Vai teikuma beigās nepieciešama izsaukuma zīme - Ziņojums ir apjomīgs dokuments, tas ir uz četrdesmit lapām.", "options": {"A": "Jā", "B": "Nē"}, "answer": "" },
   { "question": "Vai teikuma beigās nepieciešama izsaukuma zīme - Tajā ir ietverti visi galvenie virzieni, kuros ministrija ir strādājusi pēdējā gada laikā un strādā joprojām.", "options": {"A": "Jā", "B": "Nē"}, "answer": "" },
-  { "question": "Vai teikuma beigās nepieciešama izsaukuma zīme - Bet, ja mēs mēģinām to visu apkopot, tad tas centrālais punkts ir valsts drošība.", "options": {"A": "Jā", "B": "Nē"}, "answer": "" }
+  { "question": "Vai teikuma beigās nepieciešama izsaukuma zīme - Bet, ja mēs mēģinām to visu apkopot, tad tas centrālais punkts ir valsts drošība.", "options": {"A": "Jā", "B": "Nē"}, "answer": "" }]
 
-]
 
